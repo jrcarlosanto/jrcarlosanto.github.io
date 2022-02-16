@@ -1,0 +1,76 @@
+body{
+    margin: 25px;
+    font-family: 'Oxygen', sans-serif;
+    background-color: rgb(231, 231, 226);
+}
+
+h1{
+    margin-bottom: 20px;
+}
+
+hr{
+    border: 1px solid;
+}
+
+div{
+    margin: 10px;
+}
+
+.img{
+    background-color:darkgray;
+    border: 2px solid;
+}
+
+.imgFoto{
+    border-radius: 50%;
+    width: 180px;
+    height: 180px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    border: 2px solid;
+}
+
+.icones{
+    width: 75px;
+    height: 75px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h4{
+    text-align: center;
+    text-decoration: underline;
+    color: black;
+}
+
+.mapouter{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.gmap_canvas{
+    margin: auto;
+}
+
+.texto{
+    background-color: burlywood;
+    border: 2px solid;
+    text-justify: auto;
+    font-size: 140%;
+}
+
+section{
+    margin-bottom: 5px;
+}
+
+h2{
+    margin-bottom: 15px;
+}
+
+a{
+    font-weight: bold;
+}
