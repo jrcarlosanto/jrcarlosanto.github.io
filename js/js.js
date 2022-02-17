@@ -4,7 +4,6 @@ $(window).on('load resize', adapta);
 function adapta()//deixar tamanho dos blocos iguais
 {
   var alturaWindow = window.screen.width; //pega largura da tela
-  console.log(alturaWindow);
   
   if(alturaWindow>=992)
   {
